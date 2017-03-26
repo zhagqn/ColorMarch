@@ -1,0 +1,23 @@
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/bin/ColorMarch.ap_ \
+ : /Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/res/drawable-hdpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/res/drawable-ldpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/res/drawable-mdpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/res/values/strings.xml \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/bin/res/drawable-hdpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/bin/res/drawable-ldpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/bin/res/drawable-mdpi/icon.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/cm.plist \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/cm.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fast.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fonts \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/hit.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/hit_1.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/Schnappi.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/Schnappi_slow.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/slow.mp3 \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/star.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fonts/cm.ttf \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fonts/cm_font.fnt \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fonts/cm_font.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/assets/fonts/cm_font_0.png \
+/Users/zhagqn/Documents/Cocos2d-x/projects/ColorMarch/proj.android/bin/AndroidManifest.xml \
